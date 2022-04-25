@@ -96,6 +96,12 @@ body {
         flex-wrap: wrap;
         justify-content: center !important;
     }
+    .carousel-margen{
+        padding: 1px !important;
+        border: 2px solid rgb(49, 49, 49) !important;
+        margin-left: 25px !important;
+        margin-right: 25px !important;
+    }
 }
 
 /*======================*/
