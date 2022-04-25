@@ -97,8 +97,7 @@ body {
         justify-content: center !important;
     }
     .carousel-margen{
-        padding: 1px !important;
-        border: 2px solid rgb(49, 49, 49) !important;
+        padding: 15px !important;
         margin-left: 25px !important;
         margin-right: 25px !important;
     }
