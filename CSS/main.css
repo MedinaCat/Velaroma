@@ -23,9 +23,6 @@ body {
 
 /*======================*/
 /*==========Imagenes=========*/
-.carousel-inner {
-    max-height: 39rem;
-}
 
 #local {
     background-color: #f3f3f3;
@@ -147,6 +144,8 @@ body {
 #numeros-local p {
     margin: 0;
 }
+
+
 
 
 
