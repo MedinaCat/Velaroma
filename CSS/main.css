@@ -46,7 +46,7 @@ body {
     
     #img-equipo{
         max-height:20rem !important;
-        width:90%;
+        width:250px;
     }
 
     .wrapper-local {
@@ -145,7 +145,10 @@ body {
     margin: 0;
 }
 
-
+.carousel-margen{
+    margin-left: 70px;
+    margin-right: 70px;
+}
 
 
 
