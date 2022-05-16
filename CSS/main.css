@@ -114,8 +114,8 @@ body {
     justify-content: center;
     padding-bottom: 300px;
 }
-.mapa {
-    background: url(../Img/Ubicacion.png);
+#mapa {
+    /* background: url(../Img/Ubicacion.png); */
     width: 100%;
     height: 500px;
 }
