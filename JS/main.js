@@ -1,3 +1,4 @@
+
 let app = document.getElementById('typewriter');
  
 let typewriter = new Typewriter(app, {
@@ -11,3 +12,4 @@ typewriter
   .pauseFor(200)
   .deleteChars(10)
   .start();
+
